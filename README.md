@@ -51,3 +51,18 @@ This project brings **AI** into the world of **textile production**, helping bus
 
 📤 **Output:**
 - Predicted Selling Price 🎯
+  
+---
+
+## 🧱 project structure
+
+'''bash
+Cost-Analysis-in-Textile-Production-Using-AI/
+│
+├── 📓 XGBClassifier.ipynb           # Model training and evaluation notebook
+├── 🧾 dataset_textile.csv           # CSV dataset for training/testing
+├── 📊 dataset_textile.xlsx          # Same dataset in Excel format
+├── 🧮 dataset.py                    # Dataset creation or processing logic
+├── 📤 output.py                     # Inference script (model loading & prediction)
+└── 📄 README.md                     # Project documentation
+
